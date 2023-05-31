@@ -123,3 +123,7 @@ Information about restrictions imposed on access to a resource.
 Statement in collection:
 
 Rights statement comes from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
+
+## Additional Resources:
+[About the project](https://www.colorado.edu/amrc/2023/01/24/graduate-student-researchers-explore-pueblos-soundscapes)
+
