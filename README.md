@@ -1,5 +1,8 @@
 # Soundscapes of the people: Musical ethnography of Pueblo, Colorado
 ## Description
+This collection is a comprehensive study of the music and music making of Pueblo, CO and the surrounding county. The collection contains interviews with artists, educators, and community members who are current and past participants in musical activities of Pueblo. Conducted by the American Music Research Center at the University of Colorado Boulder, the study documents the music and culture of the city of Pueblo and its immediate vicinity, examining the city’s social and labor history as experienced through music and sound and follows musicians and their music into the present as the city transitions into a post-industrial future. In collaboration with communities who have been traditionally underrepresented in music studies, this initiative documents and preserves unique stories and sounds from Southern Colorado and the Borderlands region.
+
+The Soundscapes project is the recipient of a CU Boulder [Research and Innovation Seed Grant]('https://www.colorado.edu/researchinnovation/research-development/funding/rio-funding-opportunities/research-innovation-seed-grant-program/2021), an [Outreach Award]( 'https://www.colorado.edu/outreach/ooe/outreach-awards/2021-22-outreach-awards), and is a 2022 recipient of the [National Endowment for the Humanities Archeological and Ethnographic Field Research Grant]( 'https://www.neh.gov/sites/default/files/inline-files/NEH%20grant%20awards%20April%202022%20state%20by%20state%20.pdf).
 
 Permanent address to digital collection: [https://doi.org/10.25810/r8kf-7k02](https://doi.org/10.25810/r8kf-7k02).<br /> 
 Please use the same link when sharing or citing the collection.
