@@ -105,3 +105,6 @@ Rights statement comes from [rightsstatements.org](https://rightsstatements.org/
 ## Additional Resources:
 [About the project](https://www.colorado.edu/amrc/2023/01/24/graduate-student-researchers-explore-pueblos-soundscapes)
 
+## Metadata Versions:
+File: Soundscapes_of_the_People___20240509105539 includes batches 1, 2, and 3 uploaded to Luna as of May, 2024.
+
