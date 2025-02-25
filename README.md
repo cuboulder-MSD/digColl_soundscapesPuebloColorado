@@ -107,7 +107,7 @@ Rights statement comes from [rightsstatements.org](https://rightsstatements.org/
 
 ## Metadata Versions
 
-Version 4: Soundscapes_of_the_People_Full_Collection_20250225062956.csv include all metadata for the entire collection (batches 1, 2, 3, and 4) as of February, 2025.
+Version 4: Soundscapes_of_the_People_Full_Collection_2025.csv include all metadata for the entire collection (batches 1, 2, 3, and 4) as of February, 2025.
 
 Version 3: Soundscapes_of_the_People___20240509105539.csv includes batches 1, 2, and 3 uploaded to Luna as of May, 2024.
 
