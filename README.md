@@ -106,7 +106,11 @@ Rights statement comes from [rightsstatements.org](https://rightsstatements.org/
 [About the project](https://www.colorado.edu/amrc/2023/01/24/graduate-student-researchers-explore-pueblos-soundscapes)
 
 ## Metadata Versions
+
 Version 4: Soundscapes_of_the_People_Full_Collection_20250225062956.csv include all metadata for the entire collection (batches 1, 2, 3, and 4) as of February, 2025.
+
 Version 3: Soundscapes_of_the_People___20240509105539.csv includes batches 1, 2, and 3 uploaded to Luna as of May, 2024.
+
 Version 2: Soundscapes_of_the_People___20240229123840.csv include batches 1 and 2 uploaded to Luna as of February, 2024.
+
 Version 1: metadata_20230522_Batch1 - ARKs (1).csv includes batch 1 with ARKs.
